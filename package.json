@@ -1,0 +1,12 @@
+{
+  "name": "Task-2",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0",
+    "nunjucks": "^3.2.4"
+  }
+}

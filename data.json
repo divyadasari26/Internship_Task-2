@@ -1,0 +1,25 @@
+{
+  "title": "Internship Task Document",
+  "sections": [
+    {
+      "emoji": "🎯",
+      "heading": "Objective",
+      "content": "Recreate the Internship Task Document using a strict templating engine and bundler setup."
+    },
+    {
+      "emoji": "🛠️",
+      "heading": "Mandatory Technology Stack",
+      "content": "Nunjucks as the templating engine and Vite as the bundler."
+    },
+    {
+      "emoji": "📌",
+      "heading": "Requirements",
+      "content": "Final output must match Task 1 exactly in formatting, emojis, links, and structure."
+    },
+    {
+      "emoji": "📂",
+      "heading": "Deliverables",
+      "content": "Compiled HTML, source templates, README file, and a separate Git repository."
+    }
+  ]
+}
